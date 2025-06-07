@@ -16,7 +16,7 @@ This is my third internship project completed at **Smarted Innovations** (traini
 * Azure Key Vault
 * Azure IAM (RBAC)
 * Web browser (Edge/Chrome)
-* Windows 10/11
+* Windows 11
 
 ## 🖼️ Screenshots
 
